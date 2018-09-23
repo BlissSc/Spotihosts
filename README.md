@@ -1,5 +1,11 @@
 # Spotihosts
 
-Scripts for add to your hosts-file the neccesary lines to block Spotify ads (web and desktop app).
+https://github.com/ruvelro/Spotihosts
 
-The scripts must be opened ad admin/root to be able to edit hosts files (Windows and Linux)
+> Fork del repositorio original, ignorar si desean
+
+Scripts para añadir a la carpeta de hosts las líneas necesarias para bloquear los anuncios de Spotify (Web y app de escritorio)
+
+Los scripts pueden ser abiertos como admin/root para poder editar la linea de los archivos de hosts (windows y linux)
+
+https://github.com/BlissSc/Spotihosts/releases/
