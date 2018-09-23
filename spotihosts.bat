@@ -2,6 +2,7 @@
 
 set hostspath=%windir%\System32\drivers\etc\hosts
 
+echo --------
 echo #[Spotihosts v2.1] >> %hostspath%
 echo 0.0.0.0 adeventtracker.spotify.com >> %hostspath%
 echo 0.0.0.0 ads-fa.spotify.com >> %hostspath%
@@ -26,5 +27,6 @@ echo 0.0.0.0 v.jwpcdn.com >> %hostspath%
 echo 0.0.0.0 weblb-wg.gslb.spotify.com >> %hostspath%
 echo 0.0.0.0 www.omaze.com >> %hostspath%
 echo ipconfig /flushdns
+echo --------
 
 exit
